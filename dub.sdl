@@ -1,0 +1,5 @@
+name "dts"
+description "A minimal D application."
+authors "seb"
+copyright "Copyright © 2018, seb"
+license "Boost"

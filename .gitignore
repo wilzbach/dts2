@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dts.so
+dts.dylib
+dts.dll
+dts.a
+dts.lib
+dts-test-*
+*.exe
+*.o
+*.obj
+*.lst
